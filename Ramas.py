@@ -22,5 +22,8 @@ if Sensor ==0:
 elif Sensor >=1:
     print("Peligro hay un gato cerca")
     
+Falto la luz
+    
+    
     
     
